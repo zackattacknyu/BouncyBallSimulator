@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the first screen, the bar tells you how fast the ball
+	will move when launched. Press Enter to set the speed here.
+In the next screen, you launch the ball. 
+First, use the left, right, up and down arrow keys
+	to determine the launching point and
+	press enter when you have decided.
+The pink rectangle represents the area where you 
+	can launch the ball from.
+Then, you decide the angle it will be launched at.
+	The arrow points in the direction that it 
+	will be launched at. Press 'w' to rotate the
+	arrow counter-clockwise and 's' to rotate the
+	arrow clockwise.
+While the ball is moving, press any key to exit.  
+Press Enter to Continue.
+Press 'e' or 'E' to exit.
+ 
